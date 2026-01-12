@@ -1,12 +1,8 @@
 # CSCI270.JacobA
 
-// Name: Jacob Alvarez
-// Section: 2
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** Jacob Alvarez
+**Date Created:** Jan 12, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
 
-#include <iostream>
-using namespace std;
-
-int main() {
-	cout << "Hello from GitHub! My first commit works." << endl;
-	return 0;
-}
